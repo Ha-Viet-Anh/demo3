@@ -12,7 +12,7 @@ package javaapplication46;
 public class asdsda extends javax.swing.JFrame {
 
     /**sad
-     * Creates new form asdsda
+     * Creates new form asdsdaassa
      */
     public asdsda() {
         initComponents();
