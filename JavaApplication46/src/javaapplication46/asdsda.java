@@ -10,11 +10,14 @@ package javaapplication46;
  * @author taola
  */
 public class asdsda extends javax.swing.JFrame {
-aaaa
+
     /**sad
      * Creates new form asdsda
      */
     public asdsda() {
+        initComponents();
+    }
+    public asds() {
         initComponents();
     }
     @SuppressWarnings("unchecked")
